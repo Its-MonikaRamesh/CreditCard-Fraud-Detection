@@ -105,9 +105,9 @@ The results highlight an important characteristic of fraud detection: **high acc
 
 🏆 **Random Forest**
 
-- **Accuracy:** 99.956%
-- **Precision:** 0.97
-- **Recall:** 0.77
-- **F1-Score:** 0.86
+- **Accuracy :** 99.956%
+- **Precision :** 0.97
+- **Recall :** 0.77
+- **F1-Score :** 0.86
 
 Overall, **Random Forest provided the best balance between precision and recall and was the strongest model for detecting fraudulent credit card transactions in this comparison.**
